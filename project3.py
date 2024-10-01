@@ -180,7 +180,7 @@ def note(text):
     subprocess.Popen(["notepad.exe", file_name])
 
 
-WAKE = "hey tim"
+WAKE = "hey swetha"
 SERVICE = authenticate_google()
 print("Start")
 
